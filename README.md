@@ -1,6 +1,6 @@
 ### Hi there, I'm Kevin Abundis 👋
 
-Recently graduated from computer systems engineering with a passion for web and mobile development ⚡
+<!--Recently graduated from computer systems engineering with a passion for web and mobile development ⚡-->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinAbundis&show_icons=true&theme=radical&icon_color=00BCD4&title_color=00BCD4&text_color=B2EBF2&border_color=00BCD4&border_radius=20)](https://github.com/KevinAbundis/github-readme-stats)  
 
